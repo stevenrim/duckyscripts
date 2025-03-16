@@ -6,8 +6,13 @@ This repository contains **custom Ducky Scripts** designed for use with **Hak5's
 
 ## ⚠ Disclaimer
 
-**Legal & Ethical Use Notice**  
-These scripts are provided **strictly for educational and research purposes only**. Unauthorized use of these scripts to access systems without permission is **illegal and punishable by law**. By using this repository, you **agree** to only use these scripts in **controlled environments** (e.g., on your own devices or with explicit permission). I, the author, **do not take responsibility** for any misuse of these scripts. Thank you!
+```
+All projects and demonstrations in this portfolio are for educational and ethical cybersecurity research only. Every
+technique and tool was used legally within approved environments, adhering to ethical hacking principles, legal
+regulations, and responsible disclosure practices. Unauthorized use of these methods on systems without explicit
+permission is illegal and strictly discouraged. Always follow legal guidelines and obtain proper authorization
+before conducting security assessments.
+```
 
 ## Bash Bunny Network Key Dumper to CSV (Windows) 
 **Payload.txt handles overall attack logic, device modes, and script execution.**
