@@ -1,6 +1,6 @@
 # Steven's Custom Ducky Script Repository
 
-This repository contains **custom Ducky Scripts** designed for use with **Hak5's Bash Bunny**. These scripts are intended for **educational purposes, ethical hacking, penetration testing, and cybersecurity research**.
+This repository contains **custom Ducky Scripts** designed for use with **Hak5's Bash Bunny**. 
 
 
 
