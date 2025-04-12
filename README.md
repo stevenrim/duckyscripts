@@ -14,7 +14,7 @@ permission is illegal and strictly discouraged. Always follow legal guidelines a
 before conducting security assessments.
 ```
 
-## Bash Bunny Network Key Dumper to CSV (Windows) 
+## 🐇 Bash Bunny Network Key Dumper to CSV (Windows) 
 **Payload.txt handles overall attack logic, device modes, and script execution.**
 ```ducky
 # set up payload
