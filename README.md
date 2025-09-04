@@ -14,6 +14,14 @@ permission is illegal and strictly discouraged. Always follow legal guidelines a
 before conducting security assessments.
 ```
 
+<p align="center">
+  <a href="https://hak5.org/" target="_blank">
+    <img width="765" height="562" alt="bash" src="https://github.com/user-attachments/assets/2b00e903-8879-44b6-9343-6c249a14a5db" />
+  </a>
+</p>
+
+
+
 ## 🐇 Bash Bunny Network Key Dumper to CSV (Windows) 
 **Payload.txt handles overall attack logic, device modes, and script execution.**
 ```ducky
